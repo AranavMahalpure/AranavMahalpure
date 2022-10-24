@@ -43,4 +43,4 @@ Student at International Institute of Information Technology, Pune.
 
 [![AB'z github activity graph](https://activity-graph.herokuapp.com/graph?username=AranavMahalpure&theme=gotham)](https://github.com/AranavMahalpure)
 
-[![@AranavMahalpure Holopin board](https://holopin.io/api/user/board?user=AranavMahalpure)](https://holopin.io/@AranavMahalpure)
+(https://holopin.io/api/user/board?user=AranavMahalpure)(https://holopin.io/@AranavMahalpure)
