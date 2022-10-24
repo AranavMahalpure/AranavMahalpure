@@ -21,7 +21,7 @@ Student at International Institute of Information Technology, Pune.
 
 - 📫 How to reach me: aranav1289@gmail.com
 
-![Profile views](https://github.com/AranavMahalpure)  
+![Profile views](https://github.com/AranavMahalpure/AranavMahalpure)  
 
 
 
