@@ -1,12 +1,5 @@
 
 <!--**AranavMahalpure / AranavMahalpure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-- 🔭 I’m currently working on Web App Dev.
-- 🌱 I’m currently learning Backend  Used for All domain.
-- 🤔 I’m looking for help with Backend part for my projects.
-- 💬 Ask me about Web Devlopment.
-- 📫 How to reach me: At My Email- aranav1289@gmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: I  Need to learn Myself.
 ## Hi there 👋, I'm AranavMahalpure 👩🏻‍💻
 I'm a student, pursuing Bachelor of Technology in Computer Science and Engineering.
 Student at International Institute of Information Technology, Pune.
@@ -16,10 +9,10 @@ Student at International Institute of Information Technology, Pune.
 - 💬 Ask me about Web Devlopment.
 - 📫 How to reach me: At My Email- aranav1289@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: I  Need to learn Myself.
 - 📫 How to reach me: aranav1289@gmail.com
 <h3 align="left">Tools and languages: </h3>
-![My Skills](https://skillicons.dev/icons?i=html,css,js,,c,cpp,py,)
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,php,c,cpp,py,)
 
 ### 📊 GitHub Stats:
 
@@ -34,6 +27,7 @@ Student at International Institute of Information Technology, Pune.
 </div>
 
 [![AB'z github activity graph](https://activity-graph.herokuapp.com/graph?username=AranavMahalpure&theme=gotham)](https://github.com/AranavMahalpure)
+<a href=#><img src="contributions.svg"></a>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
