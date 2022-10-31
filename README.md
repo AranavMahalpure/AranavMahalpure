@@ -1,7 +1,7 @@
 <iframe width="420" height="315"
-src="<iframe width="420" height="315"
 src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>">
+</iframe>
+  
 <!--**AranavMahalpure / AranavMahalpure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ## Hi there 👋, I'm AranavMahalpure 👩🏻‍💻
 I'm a student, pursuing Bachelor of Technology in Computer Science and Engineering.
@@ -29,7 +29,7 @@ Student at International Institute of Information Technology, Pune.
 </div>
 
 [![AB'z github activity graph](https://activity-graph.herokuapp.com/graph?username=AranavMahalpure&theme=gotham)](https://github.com/AranavMahalpure)
-<a href=#><img src="contributions.svg"></a>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
