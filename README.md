@@ -1,8 +1,6 @@
 
 https://user-images.githubusercontent.com/100768252/199003308-eb6de608-9de4-4458-9d64-3c9b4be9ff92.mp4https://user-images.githubusercontent.com/100768252/199003308-eb6de608-9de4-4458-9d64-3c9b4be9ff92.mp4
 
-<a href=#><img src="contributions.svg"></a>
-
 <!--**AranavMahalpure / AranavMahalpure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ## Hi there 👋, I'm AranavMahalpure 👩🏻‍💻
 I'm a student, pursuing Bachelor of Technology in Computer Science and Engineering.
