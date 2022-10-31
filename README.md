@@ -21,9 +21,6 @@ Student at International Institute of Information Technology, Pune.
 <h3 align="left">Tools and languages: </h3>
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,,c,cpp,py,)
 
-<a href=#><img src="contributions.svg"></a>
-
-
 ### 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AranavMahalpure&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
