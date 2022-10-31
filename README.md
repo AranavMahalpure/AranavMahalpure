@@ -8,7 +8,6 @@ Student at International Institute of Information Technology, Pune.
 - 🌱 I’m currently learning Backend  Used for All domain.
 - 🤔 I’m looking for help with Backend part for my projects.
 - 💬 Ask me about Web Devlopment.
-- 📫 How to reach me: At My Email- aranav1289@gmail.com
 - 😄 Pronouns: He
 - 📫 How to reach me: aranav1289@gmail.com
 <h3 align="left">Tools and languages: </h3>
