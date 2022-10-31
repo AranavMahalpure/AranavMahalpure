@@ -1,4 +1,7 @@
-
+<iframe width="420" height="315"
+src="<iframe width="420" height="315"
+src="https://www.youtube.com/embed/tgbNymZ7vqY">
+</iframe>">
 <!--**AranavMahalpure / AranavMahalpure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ## Hi there 👋, I'm AranavMahalpure 👩🏻‍💻
 I'm a student, pursuing Bachelor of Technology in Computer Science and Engineering.
@@ -14,12 +17,7 @@ Student at International Institute of Information Technology, Pune.
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,php,c,cpp,py,)
 
-### 📊 GitHub Stats:
-<iframe width="420" height="315"
-src="<iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>">
-</iframe>
+### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AranavMahalpure&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <div style="display: flex; flex-direction: row;">
