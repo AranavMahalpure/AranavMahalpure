@@ -20,11 +20,6 @@ I'm a student, pursuing Bachelor of Technology in Computer Science and Engineeri
 Student at International Institute of Information Technology, Pune.
 
 - 📫 How to reach me: aranav1289@gmail.com
-
-![Profile views](https://github.com/AranavMahalpure/AranavMahalpure)  
-
-
-
 <h3 align="left">Tools and languages: </h3>
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,,c,cpp,py,)
