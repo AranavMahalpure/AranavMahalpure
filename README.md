@@ -1,9 +1,5 @@
 
-<!--
-**AranavMahalpure / AranavMahalpure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-<--
+<!--**AranavMahalpure / AranavMahalpure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 - 🔭 I’m currently working on Web App Dev.
 - 🌱 I’m currently learning Backend  Used for All domain.
 - 🤔 I’m looking for help with Backend part for my projects.
@@ -11,18 +7,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: At My Email- aranav1289@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I  Need to learn Myself.
--->
-
-
 ## Hi there 👋, I'm AranavMahalpure 👩🏻‍💻
 I'm a student, pursuing Bachelor of Technology in Computer Science and Engineering.
-
 Student at International Institute of Information Technology, Pune.
-
+- 🔭 I’m currently working on Web App Dev.
+- 🌱 I’m currently learning Backend  Used for All domain.
+- 🤔 I’m looking for help with Backend part for my projects.
+- 💬 Ask me about Web Devlopment.
+- 📫 How to reach me: At My Email- aranav1289@gmail.com
+- 😄 Pronouns: He
+- ⚡ Fun fact: I  Need to learn Myself.
 - 📫 How to reach me: aranav1289@gmail.com
 <h3 align="left">Tools and languages: </h3>
-
-![My Skills](https://skillicons.dev/icons?i=html,css,js,,c,cpp,py,)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,,c,cpp,py)
+![](https://www.youtube.com/shorts/epTSTFfN9VY)
 
 ### 📊 GitHub Stats:
 
