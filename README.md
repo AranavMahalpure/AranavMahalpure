@@ -1,7 +1,4 @@
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
-  
+https://user-images.githubusercontent.com/100768252/199003308-eb6de608-9de4-4458-9d64-3c9b4be9ff92.mp4https://user-images.githubusercontent.com/100768252/199003308-eb6de608-9de4-4458-9d64-3c9b4be9ff92.mp4
 <!--**AranavMahalpure / AranavMahalpure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ## Hi there 👋, I'm AranavMahalpure 👩🏻‍💻
 I'm a student, pursuing Bachelor of Technology in Computer Science and Engineering.
@@ -36,5 +33,3 @@ Student at International Institute of Information Technology, Pune.
 </p>
 
 https://user-images.githubusercontent.com/100768252/199003308-eb6de608-9de4-4458-9d64-3c9b4be9ff92.mp4
-
-
