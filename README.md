@@ -32,5 +32,3 @@ Student at International Institute of Information Technology, Pune.
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
 </p>
-
-https://user-images.githubusercontent.com/100768252/199003308-eb6de608-9de4-4458-9d64-3c9b4be9ff92.mp4
