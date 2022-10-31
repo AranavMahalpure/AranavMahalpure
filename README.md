@@ -19,9 +19,9 @@ Student at International Institute of Information Technology, Pune.
 - ⚡ Fun fact: I  Need to learn Myself.
 - 📫 How to reach me: aranav1289@gmail.com
 <h3 align="left">Tools and languages: </h3>
-![My Skills](https://skillicons.dev/icons?i=html,css,js,,c,cpp,py)
-<center><iframe src="https://youtube.com/shorts/epTSTFfN9VY?feature=share"></center>
-<center><a href=#><img src="contributions.svg"></a></center>
+![My Skills](https://skillicons.dev/icons?i=html,css,js,,c,cpp,py,)
+
+<a href=#><img src="contributions.svg"></a>
 
 
 ### 📊 GitHub Stats:
