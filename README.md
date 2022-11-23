@@ -1,4 +1,4 @@
-[![@aranavmahalpure's Holopin board](https://holopin.me/aranavmahalpure)](https://holopin.io/@aranavmahalpure)
+[![@aranavmahalpure's Holopin board](https://holopin.me/aranavmahalpure)](https://holopin.io/@aranavmahalpure)  
 <!--**AranavMahalpure / AranavMahalpure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ## Hi there 👋, I'm AranavMahalpure 👩🏻‍💻
 I'm a student, pursuing Bachelor of Technology in Computer Science and Engineering.
