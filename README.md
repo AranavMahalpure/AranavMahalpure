@@ -21,9 +21,6 @@ Student at International Institute of Information Technology, Pune.
 <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Aranavmahalpure&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" />
 
 <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=AranavMahalpure&theme=gotham&hide_border=false" />
-
-</div>
-
 ![snake gif](https://github.com/AranavMahalpure/AranavMahalpure/blob/output/github-contribution-grid-snake.gif)
 <p align="center"> 
   Visitor count<br>
