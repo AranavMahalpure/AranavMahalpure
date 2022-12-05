@@ -24,6 +24,7 @@ Student at International Institute of Information Technology, Pune.
 
 </div>
 (https://github-readme-activity-graph.cyclic.app/graph?username=AranavMahalpure&theme=dracula)(https://github.com/AranavMahalpure/github-readme-activity-graph)
+https://github-readme-activity-graph.cyclic.app/graph?username=AranavMahalpure&theme=dracula)(https://github.com/AranavMahalpure/github-readme-activity-graph
 
 <p align="center"> 
   Visitor count<br>
