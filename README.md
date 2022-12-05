@@ -23,8 +23,7 @@ Student at International Institute of Information Technology, Pune.
 <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=AranavMahalpure&theme=gotham&hide_border=false" />
 
 </div>
-
-[![AB'z github activity graph](https://activity-graph.herokuapp.com/graph?username=AranavMahalpure&theme=gotham)](https://github.com/AranavMahalpure)
+(https://activity-graph.herokuapp.com/graph?username=AranavMahalpure&theme=gotham)](https://github.com/AranavMahalpure)
 
 <p align="center"> 
   Visitor count<br>
