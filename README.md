@@ -11,7 +11,7 @@ Student at International Institute of Information Technology, Pune.
 - 📫 How to reach me: aranav1289@gmail.com
 <h3 align="left">Tools and languages: </h3>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,php,c,cpp,py,)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,php,c,cpp,py,react)
 
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AranavMahalpure&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
