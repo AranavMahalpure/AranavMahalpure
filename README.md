@@ -26,5 +26,5 @@ username=AranavMahalpure&theme=gotham&hide_border=false&include_all_commits=fals
 <img src="https://github.com/AranavMahalpure/AranavMahalpure/blob/output/github-contribution-grid-snake.gif"/>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
+  <img src="https://profile-counter.glitch.me/AranavMahalpure/count.svg" />
 </p>
