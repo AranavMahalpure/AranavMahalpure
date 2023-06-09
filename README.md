@@ -1,7 +1,7 @@
 
 <img align="center" width="400" src="https://github-production-user-asset-6210df.s3.amazonaws.com/100768252/244678927-5bc24af4-441f-4a0d-bc76-f6757da06199.jpg">
 <!--**AranavMahalpure / AranavMahalpure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-## Hi there 👋, I'm AranavMahalpure 👩🏻‍💻
+## Hi there 👋, I'm AranavMahalpure 👩🏻‍💻<br
 I'm a student, pursuing Bachelor of Technology in Computer Science and Engineering.
 Student at International Institute of Information Technology, Pune.
 - 🔭 I’m currently working on Web App Dev.
@@ -12,12 +12,6 @@ Student at International Institute of Information Technology, Pune.
 - 📫 How to reach me: aranav1289@gmail.com
 <h3 align="left">Tools and languages: </h3>
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,php,react,mongodb,c,cpp,py,py-script)
-### 📊 GitHub Stats
-username=AranavMahalpure&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<div style="display: flex; flex-direction: row;">
-<img width="46%" src="https://github-readme-stats.vercel.app/api?username=Aranavmahalpure&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" />
-<img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=AranavMahalpure&theme=gotham&hide_border=false" />
-<img src="https://github.com/AranavMahalpure/AranavMahalpure/blob/output/github-contribution-grid-snake.gif"/>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/AranavMahalpure/count.svg" />
