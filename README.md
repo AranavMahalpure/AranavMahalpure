@@ -1,5 +1,5 @@
-[![@aranavmahalpure's Holopin board](https://holopin.me/aranavmahalpure)](https://holopin.io/@aranavmahalpure)  
-<img align="center" height="30" width="40" src="https://github-production-user-asset-6210df.s3.amazonaws.com/100768252/244678927-5bc24af4-441f-4a0d-bc76-f6757da06199.jpg">
+
+<img align="center" width="400" src="https://github-production-user-asset-6210df.s3.amazonaws.com/100768252/244678927-5bc24af4-441f-4a0d-bc76-f6757da06199.jpg">
 <!--**AranavMahalpure / AranavMahalpure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ## Hi there 👋, I'm AranavMahalpure 👩🏻‍💻
 I'm a student, pursuing Bachelor of Technology in Computer Science and Engineering.
