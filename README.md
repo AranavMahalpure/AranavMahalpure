@@ -1,17 +1,5 @@
 
 <img align="center" width="400" src="https://github-production-user-asset-6210df.s3.amazonaws.com/100768252/244678927-5bc24af4-441f-4a0d-bc76-f6757da06199.jpg">
-<!--**AranavMahalpure / AranavMahalpure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-## Hi there 👋, I'm AranavMahalpure 👩🏻‍💻<br
-I'm a student, pursuing Bachelor of Technology in Computer Science and Engineering.
-Student at International Institute of Information Technology, Pune.
-- 🔭 I’m currently working on Web App Dev.
-- 🌱 I’m currently learning Backend  Used for All domain.
-- 🤔 I’m looking for help with Backend part for my projects.
-- 💬 Ask me about Web Devlopment.
-- 😄 Pronouns: He
-- 📫 How to reach me: aranav1289@gmail.com
-<h3 align="left">Tools and languages: </h3>
-![My Skills](https://skillicons.dev/icons?i=html,css,js,php,react,mongodb,c,cpp,py,py-script)
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/AranavMahalpure/count.svg" />
