@@ -1,5 +1,5 @@
 
-<img align="center" height="300" width="1000" src="https://github-production-user-asset-6210df.s3.amazonaws.com/100768252/244678927-5bc24af4-441f-4a0d-bc76-f6757da06199.jpg">
+<img align="center" height="300" width="1000" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fcontent%2Fimages%2F2023%2F02%2Fcoderr.png&tbnid=2MGfHvRdgxYxlM&vet=10CKQBEDMogQNqFwoTCOCZ6q_ryv8CFQAAAAAdAAAAABAF..i&imgrefurl=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fhow-to-get-github-pro-and-replit-hacker-for-free-as-a-student%2F&docid=_YeRgOhZ0ShUdM&w=764&h=428&q=github%20profileb%20pic%20hd%20&ved=0CKQBEDMogQNqFwoTCOCZ6q_ryv8CFQAAAAAdAAAAABAF">
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/AranavMahalpure/count.svg" />
