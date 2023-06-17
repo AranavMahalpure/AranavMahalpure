@@ -1,5 +1,5 @@
-
-<img align="center" height="400" width="500" src="https://github-production-user-asset-6210df.s3.amazonaws.com/100768252/244678927-5bc24af4-441f-4a0d-bc76-f6757da06199.jpg">
+<p align="center" >
+<img align="center" height="400" width="500" src="https://github-production-user-asset-6210df.s3.amazonaws.com/100768252/244678927-5bc24af4-441f-4a0d-bc76-f6757da06199.jpg"></p>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/AranavMahalpure/count.svg" />
