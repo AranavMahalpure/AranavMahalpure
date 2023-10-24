@@ -1,6 +1,6 @@
 <p align="center" >
 <img align="center" height="400" width="500" src="https://github-production-user-asset-6210df.s3.amazonaws.com/100768252/244678927-5bc24af4-441f-4a0d-bc76-f6757da06199.jpg"
-  align='right' alt='coding' width='400' src='https://www.lambdatest.com/resources/images/news24.gif' ></p>
+ / > <img  align='right' alt='coding' width='400' src='https://www.lambdatest.com/resources/images/news24.gif'/></p>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/AranavMahalpure/count.svg" />
@@ -24,4 +24,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AranavMahalpure&show_icons=true&locale=en&layout=compact" alt="AranavMahalpure" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AranavMahalpure&show_icons=true&locale=en" alt="AranavMahalpure" /></p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AranavMahalpure&" alt="AranavMahalpure" />
-<img  src="https://holopin.io/@aranavmahalpure"/>
+<img  src="https://holopin.io/@aranavmahalpure" >
