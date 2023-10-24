@@ -1,5 +1,5 @@
 <p align="center" >
-<img  align='right' alt='coding' width='400' src='https://www.lambdatest.com/resources/images/news24.gif'/></p>
+<img align="center" alt='coding' width='400' src='https://www.lambdatest.com/resources/images/news24.gif'/></p>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/AranavMahalpure/count.svg" />
