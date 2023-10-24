@@ -23,3 +23,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AranavMahalpure&show_icons=true&locale=en&layout=compact" alt="AranavMahalpure" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AranavMahalpure&show_icons=true&locale=en" alt="AranavMahalpure" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AranavMahalpure&" alt="AranavMahalpure" /></p>
+[![An image of @aranavmahalpure's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aranavmahalpure)](https://holopin.io/@aranavmahalpure)
