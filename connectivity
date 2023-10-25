@@ -1,23 +1,22 @@
-package assignment;
-import java.sql.*;
-public class example {
-public static void main(String[] args) {
-try {
-Class.forName("com.mysql.jdbc.Driver");
-Connection con =
-DriverManager.getConnection("jdbc:mysql://127.0.0.1/stud", "root",
-"123456789");
-Statement stmt = con.createStatement();
-System.out.println("Inserting Records ");
-String sql = "INSERT INTO stud VALUES ('Ankita', 20)";
-stmt.executeUpdate(sql);
-System.out.println("Record inserted successfully.");
-stmt.close();
-con.close();
+<?php
+$servername = "localhost";  // Replace with your MySQL server hostname or IP address.
+$username = "your_username";  // Replace with your MySQL username.
+$password = "your_password";  // Replace with your MySQL password.
+$database = "your_database";  // Replace with the name of your MySQL database.
+
+// Create a MySQLi connection
+$conn = new mysqli($servername, $username, $password, $database);
+
+// Check connection
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
 }
-catch (Exception e)
-{
-e.printStackTrace();
-}
-}
-}
+
+// Now, you can use the $conn object to interact with the database.
+// For example, you can execute SQL queries here.
+foreach ($result as $vlaue){
+echo $value ['id'];
+echo$value['name];
+// Close the connection when you're done with it.
+$conn->close();
+?>
