@@ -1,0 +1,23 @@
+package assignment;
+import java.sql.*;
+public class example {
+public static void main(String[] args) {
+try {
+Class.forName("com.mysql.jdbc.Driver");
+Connection con =
+DriverManager.getConnection("jdbc:mysql://127.0.0.1/stud", "root",
+"123456789");
+Statement stmt = con.createStatement();
+System.out.println("Inserting Records ");
+String sql = "INSERT INTO stud VALUES ('Ankita', 20)";
+stmt.executeUpdate(sql);
+System.out.println("Record inserted successfully.");
+stmt.close();
+con.close();
+}
+catch (Exception e)
+{
+e.printStackTrace();
+}
+}
+}
