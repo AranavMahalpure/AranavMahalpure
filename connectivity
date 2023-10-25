@@ -3,7 +3,7 @@ $servername = "localhost";  // Replace with your MySQL server hostname or IP add
 $username = "your_username";  // Replace with your MySQL username.
 $password = "your_password";  // Replace with your MySQL password.
 $database = "your_database";  // Replace with the name of your MySQL database.
-
+try(
 // Create a MySQLi connection
 $conn = new mysqli($servername, $username, $password, $database);
 
@@ -14,9 +14,13 @@ if ($conn->connect_error) {
 
 // Now, you can use the $conn object to interact with the database.
 // For example, you can execute SQL queries here.
+$result=$con->query(select * from student);
 foreach ($result as $vlaue){
 echo $value ['id'];
-echo$value['name];
+echo$value['name];}
 // Close the connection when you're done with it.
-$conn->close();
+$conn->close();)
+catch(PDOException $e) {
+    echo "Connection failed: " . $e->getMessage();
+}
 ?>
