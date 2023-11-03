@@ -22,4 +22,4 @@
 <p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AranavMahalpure&show_icons=true&locale=en&layout=compact" alt="AranavMahalpure" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AranavMahalpure&show_icons=true&locale=en" alt="AranavMahalpure" /></p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AranavMahalpure&" alt="AranavMahalpure" />
+<img align="center" width='800' height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=AranavMahalpure&" alt="AranavMahalpure" />
