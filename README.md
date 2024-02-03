@@ -48,4 +48,5 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AranavMahalpure&show_icons=true&locale=en&layout=compact" alt="AranavMahalpure" /></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=AranavMahalpure&show_icons=true&locale=en" alt="AranavMahalpure" /></p>
 <p align="center"><img width='800' height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=AranavMahalpure&" alt="AranavMahalpure" /></p>
-<span align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AranavMahalpure" alt="aranavmahalpure" /></a> </span>
+<span align="center"> <a href="https://github.com/AranavMahalpure/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AranavMahalpure&theme=onedark" alt="aranavmahalpure" /></a> </span>
+<!-- <span align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AranavMahalpure" alt="aranavmahalpure" /></a> </span> -->
