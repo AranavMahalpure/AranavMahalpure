@@ -49,4 +49,14 @@
 <p align="center"><img width='800' height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=AranavMahalpure&" alt="AranavMahalpure" /></p>
 <p align="center"><span align="center"> <a href="https://github.com/AranavMahalpure/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AranavMahalpure&theme=onedark" alt="aranavmahalpure" /></a> </span></p>
 <!-- <span align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AranavMahalpure" alt="aranavmahalpure" /></a> </span> -->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AranavMahalpure&show_icons=true&locale=en&layout=compact" alt="AranavMahalpure" /></p>
+### 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AranavMahalpure&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<div style="display: flex; flex-direction: row;">
+
+<img width="46%" src="https://github-readme-stats.vercel.app/api?username=AranavMahalpure&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" />
+
+<img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=AranavMahalpure&theme=gotham&hide_border=false" />
+
+</div>
