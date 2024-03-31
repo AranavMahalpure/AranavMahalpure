@@ -45,6 +45,7 @@
 <p align="center"><img width='800' height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=AranavMahalpure&" alt="AranavMahalpure" /></p>
 <p align="center"><span align="center"> <a href="https://github.com/AranavMahalpure/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AranavMahalpure&theme=onedark" alt="aranavmahalpure" /></a> </span></p>
 <!-- <span align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AranavMahalpure" alt="aranavmahalpure" /></a> </span> -->
-### 📊 GitHub Stats:
-<div style="display: flex; flex-direction: row;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AranavMahalpure&theme=dark&bg_color=000000&title_color=ffffff" /></div>
+### 📊Language Stats:
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?AranavMahalpure&theme=dark&bg_color=000000&title_color=ffffff](https://github-readme-stats.vercel.app/api/top-langs/?username=AranavMahalpure&theme=dark&bg_color=000000&title_color=ffffff)" />
+</a>
