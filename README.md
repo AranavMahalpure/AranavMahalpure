@@ -2,7 +2,7 @@
 <img align="center" alt='coding' width='800' height="400" src='https://www.lambdatest.com/resources/images/news24.gif'/></p>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/AranavMahalpure/count.svg" />
+  <img src="https://profile-counter.glitch.me/AranavMahalpure/count.svg"/>
 </p>
 <h1 align="center">Hi 👋, I'm Aranav Mahalpure</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
