@@ -47,5 +47,7 @@
 <!-- <span align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AranavMahalpure" alt="aranavmahalpure" /></a> </span> -->
 ### 📊 GitHub Stats:
 <div style="display: flex; flex-direction: row;">
-<[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AranavMahalpure&theme=dark&background=000000)](https://git.io/streak-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AranavMahalpure&theme=dark&bg_color=000000&title_color=ffffff" />
+</a>
 </div>
