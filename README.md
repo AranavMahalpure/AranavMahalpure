@@ -1,9 +1,5 @@
 <p align="center" >
 <img align="center" alt='coding' width='800' height="400" src='https://www.lambdatest.com/resources/images/news24.gif'/></p>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/AranavMahalpure/count.svg"/>
-</p>
 <h1 align="center">Hi 👋, I'm Aranav Mahalpure</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -51,6 +47,5 @@
 <!-- <span align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AranavMahalpure" alt="aranavmahalpure" /></a> </span> -->
 ### 📊 GitHub Stats:
 <div style="display: flex; flex-direction: row;">
-<img width="46%" src="https://github-readme-stats.vercel.app/api?username=AranavMahalpure&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" />
-<img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=AranavMahalpure&theme=gotham&hide_border=false" />
+<[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AranavMahalpure&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
