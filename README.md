@@ -6,7 +6,7 @@
 <br>
 - 🔭 I’m currently working on [Youtube Clone] (https://github.com/AranavMahalpure/Aranav-s-Personal-)
 
-- 🌱 I’m currently learning **React Js,MERN/MEAN Stack Development,Java Development**
+- 🌱 I’m COmpleted my learning in **React Js,MERN Stack Development,Java Development(SpringBoot + React), Python Developement(Flask/Django)**
 
 - 👯 I’m looking to collaborate on [Spotify Clone](https://github.com/AranavMahalpure/Aranav-s-Personal-)
 
