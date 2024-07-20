@@ -46,6 +46,17 @@
 <p align="center"><span align="center"> <a href="https://github.com/AranavMahalpure/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AranavMahalpure&theme=onedark" alt="aranavmahalpure" /></a> </span></p>
 <!-- <span align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AranavMahalpure" alt="aranavmahalpure" /></a> </span> -->
 ### 📊Language Stats:
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/AranavMahalpure/github-readme-stats">
   <img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?AranavMahalpure&theme=dark&bg_color=000000&title_color=ffffff](https://github-readme-stats.vercel.app/api/top-langs/?username=AranavMahalpure&theme=dark&bg_color=000000&title_color=ffffff)" />
 </a>
+<div>
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=AranavMahalpure&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=AranavMahalpure&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AranavMahalpure&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=AranavMahalpure&style=for-the-badge&color=orange" alt=""/>
+</div>
