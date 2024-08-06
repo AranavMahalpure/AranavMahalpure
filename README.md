@@ -48,6 +48,9 @@
   <p align="center">
     <img width="800" height="220" src="https://streak-stats.demolab.com?user=AranavMahalpure&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
   </p>
+  ### 📊 Leetcode Stats:
+  
+[![Aranav Mahalpure's LeetCode Stats](https://leetcode.card.workers.dev/AranavMahalpure?theme=dark&font=&extension=activity)](https://leetcode.com/AranavMahalpure/)
 
   ### 📊 Language Stats:
   <p>
