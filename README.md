@@ -164,5 +164,5 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AranavMahalpure&theme=dark" alt="GitHub Streak"/>
   </a>  
  
-## 📊 Leetcode strick  Stats:
+## 📊 Leetcode streak  Stats:
 <img width="500" height="300" src="https://leetcode.card.workers.dev/AranavMahalpure?theme=dark&font=&extension=activity">
