@@ -52,9 +52,10 @@
   </div>
   ### 📊 Language Stats:
   <div>
+    <span>
     <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AranavMahalpure&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-    <br>
     <img width="300" height="200" src="https://github-readme-stats.vercel.app/api?username=AranavMahalpure&show_icons=true&theme=vision-friendly-dark">
+    </span>
   </div>
 
   <p align="center">
