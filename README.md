@@ -150,23 +150,19 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </p>
-<div>
   <h3 align="left">My GitHub Stats 📈</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AranavMahalpure&show_icons=true&theme=dark" alt="Aranav Mahalpure's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AranavMahalpure&show_icons=true&theme=dark" alt="Aranav Mahalpure's GitHub Stats"/>
 </p>
 <h3 align="left">My Top Languages 🗣</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AranavMahalpure&layout=compact&theme=dark" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AranavMahalpure&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
-</div>
-
-
 <h3 align="left">Recent GitHub Activity 🚀</h3>
 <p align="left">
-  <a href="https://github.com/AranavMahalpure">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AranavMahalpure&theme=dark" alt="GitHub Streak"/>
-  </a>
-  
-  ### 📊 Leetcode strick  Stats:
- <img width="500" height="300" src="https://leetcode.card.workers.dev/AranavMahalpure?theme=dark&font=&extension=activity">
+<a href="https://github.com/AranavMahalpure">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AranavMahalpure&theme=dark" alt="GitHub Streak"/>
+  </a>  
+ 
+## 📊 Leetcode strick  Stats:
+<img width="500" height="300" src="https://leetcode.card.workers.dev/AranavMahalpure?theme=dark&font=&extension=activity">
