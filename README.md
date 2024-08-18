@@ -47,7 +47,7 @@
 <div>
    ### 📊 strick Stats:
   <div>
-    <img width="300" height="300" src="https://streak-stats.demolab.com?user=AranavMahalpure&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+    <img width="350" height="400" src="https://streak-stats.demolab.com?user=AranavMahalpure&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
     <img width="500" height="300" src="https://leetcode.card.workers.dev/AranavMahalpure?theme=dark&font=&extension=activity">
   </div>
   ### 📊 Language Stats:
