@@ -49,9 +49,10 @@
     <img width="800" height="220" src="https://streak-stats.demolab.com?user=AranavMahalpure&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
   </p>
   ### 📊 Leetcode Stats:
-  
 [![Aranav Mahalpure's LeetCode Stats](https://leetcode.card.workers.dev/AranavMahalpure?theme=dark&font=&extension=activity)](https://leetcode.com/AranavMahalpure/)
-
+<p align="center">
+    <img width="800" height="220" src="https://leetcode.card.workers.dev/AranavMahalpure?theme=dark&font=&extension=activity">
+  </p>
   ### 📊 Language Stats:
   <p>
     <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AranavMahalpure&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
