@@ -47,12 +47,13 @@
 <div>
    ### 📊 strick Stats:
   <div>
-    <img width="300" height="220" src="https://streak-stats.demolab.com?user=AranavMahalpure&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+    <img width="300" height="300" src="https://streak-stats.demolab.com?user=AranavMahalpure&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
     <img width="500" height="300" src="https://leetcode.card.workers.dev/AranavMahalpure?theme=dark&font=&extension=activity">
   </div>
   ### 📊 Language Stats:
   <div>
     <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AranavMahalpure&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+    <br>
     <img width="300" height="200" src="https://github-readme-stats.vercel.app/api?username=AranavMahalpure&show_icons=true&theme=vision-friendly-dark">
   </div>
 
