@@ -166,3 +166,7 @@
  
 ## 📊 Leetcode streak  Stats:
 <img width="500" height="300" src="https://leetcode.card.workers.dev/AranavMahalpure?theme=dark&font=&extension=activity">
+
+## 📊 GFG streak  Stats:
+<img width="500" height="300" src="https://geeks-for-geeks-stats-card.vercel.app/?username=aranav1289">
+
