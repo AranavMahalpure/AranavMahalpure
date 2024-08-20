@@ -163,11 +163,11 @@
 <a href="https://github.com/AranavMahalpure">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AranavMahalpure&theme=dark" alt="GitHub Streak"/>
   </a>  
- <SPAN>
-
+  <div>
+    
 ## 📊 Leetcode streak  Stats:
-<img width="800" height="280" src="https://leetcode.card.workers.dev/AranavMahalpure?theme=dark&font=&extension=activity">
+<img width="450" height="350" src="https://leetcode.card.workers.dev/AranavMahalpure?theme=dark&font=&extension=activity">
 
 ## 📊 GFG streak  Stats:
-<img width="500" height="280" src="https://geeks-for-geeks-stats-card.vercel.app/?username=aranav1289">
-</SPAN>
+<img width="450" height="350" src="https://geeks-for-geeks-stats-card.vercel.app/?username=aranav1289">
+</div>
