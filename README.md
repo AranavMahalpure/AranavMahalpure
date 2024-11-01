@@ -154,7 +154,7 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=AranavMahalpure&show_icons=true&theme=dark" alt="Aranav Mahalpure's GitHub Stats"/>
 </p>
-<h3 align="left">My Top Languages 🗣</h3>
+<h3 align="left">My Top Languages🗣</h3>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AranavMahalpure&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
@@ -165,7 +165,7 @@
   </a>  
   <div>
     
-## 📊 Leetcode streak  Stats:
+## 📊 Leetcode streak Stats:
 <img width="450" height="340" src="https://leetcode.card.workers.dev/AranavMahalpure?theme=dark&font=&extension=activity">
 
 ## 📊 GFG streak  Stats:
