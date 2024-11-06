@@ -1,6 +1,4 @@
-<p align="center">
-  <img align="center" alt="coding" width="800" height="400" src="https://www.lambdatest.com/resources/images/news24.gif"/>
-</p>
+![Full Stack Developer](https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif)
 <h1 align="center">Hi 👋, I'm Aranav Mahalpure</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
 
