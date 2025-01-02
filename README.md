@@ -150,7 +150,7 @@
 </p>
   <h3 align="left">My GitHub Stats 📈</h3>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=AranavMahalpure&show_icons=true&theme=dark" alt="Aranav Mahalpure's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AranavMahalpure&show_icons=true&theme=light" alt="Aranav Mahalpure's GitHub Stats"/>
 </p>
 <h3 align="left">My Top Languages🗣</h3>
 <p align="left">
