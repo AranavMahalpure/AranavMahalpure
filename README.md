@@ -1,40 +1,59 @@
-# 🚀 Advanced GitHub Profile README for Aranav Mahalpure
-
-```md
-<img src="https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif" width="100%" />
-
 <h1 align="center">Hi 👋, I'm Aranav Mahalpure</h1>
-<h3 align="center">Data Engineer | AWS & Azure Cloud Enthusiast | Databricks Developer</h3>
+<h3 align="center">Data Engineer | AWS & Azure Cloud Data Engineer | Databricks Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AWS+Data+Engineer;Azure+Data+Engineer;Databricks+Developer;Cloud+%26+Big+Data+Enthusiast;Snowflake+Certified;Building+Modern+Data+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AWS+Data+Engineer;Azure+Data+Engineer;Databricks+Developer;Cloud+%26+Big+Data+Engineer;Snowflake+Certified(COFC03);Databricks+Certified(Associate);Building+Modern+Data+Pipelines" alt="Typing SVG" />
 </p>
 
 ---
 
 # 💫 About Me
 
-- 🔭 Currently working on **AWS & Azure Data Engineering Projects**
-- 🌱 Learning **Advanced AWS Data Engineering, Databricks, PySpark, Terraform & CI/CD**
-- ☁️ Skilled in **AWS, Azure, Databricks, Snowflake & Big Data Technologies**
-- 💡 Interested in **Cloud Architecture, ETL Pipelines & Data Platforms**
-- 🎯 Goal: Become a **Top Cloud Data Engineer**
-- ⚡ Fun Fact: I love solving real-world data engineering problems
+* 🔭 Currently working on **AWS & Azure Data Engineering Projects**
+* 🌱 Learning **Advanced AWS Data Engineering, Databricks, PySpark, Terraform & CI/CD**
+* ☁️ Skilled in **AWS, Azure, Databricks, Snowflake & Big Data Technologies**
+* 💡 Interested in **Cloud Architecture, ETL Pipelines & Data Platforms**
+* 🎯 Goal: Become a **Top Cloud Data Engineer**
+* ⚡ Fun Fact: I love solving real-world data engineering problems
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/" target="blank">
+
+<a href="https://www.linkedin.com/in/aranav-mahalpure" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" />
 </a>
-<a href="https://github.com/" target="blank">
+<a href="https://github.com/AranavMahalpure/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="50" width="50" />
 </a>
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:aranav1289@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="50" width="50" />
 </a>
+<a href="https://instagram.com/aranav@1289" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aranav@1289" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/techie mindblower🤬" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techie mindblower🤬" height="30" width="40" />
+    <a href="https://www.codechef.com/users/aranav1289" target="_blank" rel="noreferrer">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aranav1289" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/aranav1289" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aranav1289" height="30" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/aranav1289" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aranav1289" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/aranavmahalpure" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aranavmahalpure" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerearth.com/@aranav1289" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aranav1289" height="30" width="40" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/aranav1289" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aranav1289" height="30" width="40" />
+  </a>
 </p>
 
 ---
@@ -44,7 +63,7 @@
 ## ☁️ Cloud Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+<img src="https://skillicons.dev/icons?i=aws,azure" />
 </p>
 
 ## ⚡ Data Engineering & Big Data
@@ -62,13 +81,13 @@
 ## 🚀 DevOps & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,terraform,git,github,linux,bash" />
+<img src="https://skillicons.dev/icons?i=docker,terraform,git,github,linux,bash,gitlab" />
 </p>
 
 ## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,scala" />
+<img src="https://skillicons.dev/icons?i=python," />
 </p>
 
 ---
@@ -102,56 +121,48 @@
 ---
 
 # 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&margin-h=15" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AranavMahalpure&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 # 📈 Contribution Graph
 
-[![Aranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+[![Aranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AranavMahalpure\&theme=tokyo-night)](https://github.com/AranavMahalpure)
 
 ---
 
 # 🚀 Featured Projects
 
+
 ## 🔹 AWS Data Pipeline Project
-- ETL pipeline using AWS Glue, S3, PySpark & Redshift
-- Automated workflow with Airflow
-- Data transformation using Spark
+
+* ETL pipeline using AWS Glue, S3, PySpark & Redshift
+<img align="right" alt="Coding" 
+  height="140" width="280" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+* Automated workflow with Airflow
+* Data transformation using Databricks
 
 ## 🔹 Azure Data Engineering Project
-- Built scalable ETL pipelines using ADF & Databricks
-- Processed big data with PySpark
-- Integrated ADLS & Synapse Analytics
+
+* Built scalable ETL pipelines using ADF & Databricks
+* Processed big data with PySpark
+* Integrated ADLS & Synapse Analytics
 
 ## 🔹 Databricks Asset Bundle Deployment
-- CI/CD deployment automation using Databricks Asset Bundles
-- Environment-based YAML configurations
-- Automated Job & Workflow deployment
+
+* CI/CD deployment automation using Databricks Asset Bundles
+* Environment-based YAML configurations
+* Automated Job & Workflow deployment
 
 ---
 
 # 🏅 Certifications
 
-- ✅ Snowflake SnowPro Core Certified
-- ✅ Azure Data Engineering Learning Path
-- ✅ AWS Cloud & Data Engineering Hands-on
+* ✅ Snowflake SnowPro Core Certified (COFC03)
+* ✅ Databricks Certified Data Engineer Associate
+* ✅ AWS &  Azure Data Engineering Hands-on
 
 ---
 
@@ -165,30 +176,9 @@
 
 # 👀 Profile Views
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AranavMahalpure&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-# ⚡ Fun Animation
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-<h3 align="center">⭐ From Aranav Mahalpure | Cloud & Data Engineering Enthusiast ⭐</h3>
-```
-
-# 📌 Steps To Use
-
-1. Create a repository with the same name as your GitHub username.
-2. Add a `README.md` file.
-3. Copy the above code into `README.md`.
-4. Replace all `YOUR_USERNAME` values with your GitHub username.
-5. Add your LinkedIn and Gmail links.
-6. Commit the changes.
-
-Your GitHub profile will become fully professional with animations, stats, tech stack, trophies, and cloud/data engineering branding.
