@@ -1,4 +1,5 @@
-<img  alt="center" height="140" width="280" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+<p align="center"> <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/176412699" target="_blank"> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/176412699" width="220" alt="Snowflake Certification"/> </a> <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/182625983" target="_blank"> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/182625983" width="220" alt="Databricks Certification"/> </a> </p> <p align="center"> 🏅 Snowflake SnowPro Core Certified (COFC03) <br> 🏅 Databricks Certified Data Engineer Associate </p>
+
 <h1 align="center">Hi 👋, I'm Aranav Mahalpure</h1>
 <h3 align="center">Data Engineer | AWS & Azure Cloud Data Engineer | Databricks Developer</h3>
 
