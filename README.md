@@ -1,4 +1,4 @@
-<img align="middle" alt="Coding" height="140" width="280" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+<img  alt="center" height="140" width="280" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 <h1 align="center">Hi 👋, I'm Aranav Mahalpure</h1>
 <h3 align="center">Data Engineer | AWS & Azure Cloud Data Engineer | Databricks Developer</h3>
 
