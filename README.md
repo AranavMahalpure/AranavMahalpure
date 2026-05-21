@@ -139,15 +139,13 @@
 ## 🔹 AWS Data Pipeline Project
 
 * ETL pipeline using AWS Glue, S3, PySpark & Redshift
-<img align="right" alt="Coding" 
-  height="140" width="280" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+<img align="right" alt="Coding" height="140" width="280" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 * Automated workflow with Airflow
 * Data transformation using Databricks
 
 ## 🔹 Azure Data Engineering Project
 
 * Built scalable ETL pipelines using ADF & Databricks
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 * Processed big data with PySpark
 * Integrated ADLS & Synapse Analytics
 
