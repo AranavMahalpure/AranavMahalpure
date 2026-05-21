@@ -147,6 +147,7 @@
 ## 🔹 Azure Data Engineering Project
 
 * Built scalable ETL pipelines using ADF & Databricks
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 * Processed big data with PySpark
 * Integrated ADLS & Synapse Analytics
 
