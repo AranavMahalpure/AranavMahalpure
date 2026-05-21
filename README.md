@@ -1,3 +1,4 @@
+<img align="middle" alt="Coding" height="140" width="280" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 <h1 align="center">Hi 👋, I'm Aranav Mahalpure</h1>
 <h3 align="center">Data Engineer | AWS & Azure Cloud Data Engineer | Databricks Developer</h3>
 
@@ -139,7 +140,6 @@
 ## 🔹 AWS Data Pipeline Project
 
 * ETL pipeline using AWS Glue, S3, PySpark & Redshift
-<img align="right" alt="Coding" height="140" width="280" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 * Automated workflow with Airflow
 * Data transformation using Databricks
 
